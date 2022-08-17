@@ -1,0 +1,5 @@
+print('quanto voce ganha por hora')
+ganho_hora = int(input())
+print('quantas horas voce trabalha por mes')
+horas_mes = int(input())
+print('voce ganha',ganho_hora*horas_mes,'reais')
