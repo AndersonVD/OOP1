@@ -1,4 +1,3 @@
-# OOP1
+# OOP1 Orientade Object Programming (Programação Orientada a Objetos)
 
-#h1
-O objetivo teste repositório é desenvolver o conhecimento em programação orientada a objetos.
+O objetivo teste repositório é desenvolver o conhecimento em programação orientada a objetos. Os exercícios estão sendo feitos em python.
